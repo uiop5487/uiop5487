@@ -22,6 +22,13 @@
 <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white"/>
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
 </p>
+
+
+<div align="center">
+<img src ="https://github-readme-stats.vercel.app/api?username=uiop5487&show_icons=true&count_private=true&theme=dark">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=uiop5487&layout=compact&hide_border=true&theme=dark">
+</div>
+
 </div>
 
 
