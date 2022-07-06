@@ -3,7 +3,7 @@
   
 # 김진성의 깃허브
   
-</div>
+
 
 ### 기술스택 현재 진행형
 <p>
@@ -22,7 +22,7 @@
 <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white"/>
 <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
 </p>
-
+</div>
 
 <div align="center">
 <img src ="https://github-readme-stats.vercel.app/api?username=uiop5487&show_icons=true&count_private=true&theme=dark">
