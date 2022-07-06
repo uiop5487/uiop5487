@@ -2,6 +2,7 @@
   
 ### 현재 진행중
 
+### 기술스택
 ##
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000080"/>
@@ -12,7 +13,12 @@
 <img alt="ApolloClient" src="https://img.shields.io/badge/ApolloClient-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img alt="Node" src ="https://img.shields.io/badge/Node-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=black"/>
+<br/>
+<img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=black"/>
+<img alt="NestJs" src ="https://img.shields.io/badge/NestJs-E0234E.svg?&style=flat&logo=NestJs&logoColor=black"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=black"/>
+<img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=MySQL&logoColor=white"/>
+<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
 </p>
 </div>
 
