@@ -1,26 +1,27 @@
 <div>
 <div align="center">
   
-# 김진성의 깃허브
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=41538E&height=300&section=header&text=jinsung's%20Hub&fontSize=90&fontColor=ffffff&rotate=20&fontAlignY=35&fontAlign=60" />
+  </p>
   
 
 
-### 기술스택 현재 진행형
+### 🖥 technology stack
+<div style="display: flex; align-items: flex-start;"></div><div style="display: flex; align-items: flex-start;">&nbsp;&nbsp;</div>
 <p>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000080"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="72" height="72" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="72" height="72" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="72" height="72" />
 <img alt="Nextjs" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="72" height="72" />
 <img alt="ApolloClient" src="https://img.shields.io/badge/ApolloClient-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <br/>
 <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=black"/>
 <img alt="NestJs" src ="https://img.shields.io/badge/NestJs-E0234E.svg?&style=flat&logo=NestJs&logoColor=black"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=black"/>
 <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white"/>
-<img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" />
 </p>
 </div>
 
