@@ -30,7 +30,9 @@
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="72" height="72" />
 <div>deploy</div>
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="72" height="72" />
-<img src="https://user-images.githubusercontent.com/96868951/187036678-55edd632-0600-43f7-8585-d33171943c23.png" width="60" heigh="60" />
+<img src="https://user-images.githubusercontent.com/96868951/187036678-55edd632-0600-43f7-8585-d33171943c23.png" width="72" height="72" />
+<img width="72" height="72" alt="GKE" src="https://user-images.githubusercontent.com/96868951/187037131-bf7ad8dc-4b51-4585-92f6-bb2a5fe829c8.png">
+
 </p>
 </div>
 
