@@ -13,23 +13,25 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="72" height="72" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="72" height="72" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="72" height="72" />
-<img alt="Nextjs" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-<img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="72" height="72" />
-<img alt="ApolloClient" src="https://img.shields.io/badge/ApolloClient-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
+<img src="https://user-images.githubusercontent.com/96868951/187032298-846baf8e-c0e9-42ce-8a06-3e48994cf5d2.png" width="72" height="72"/>
 <br/>
-<img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=black"/>
+<img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="72" height="72" />
+<img src="https://user-images.githubusercontent.com/96868951/187032450-5d8e77c4-bff6-4835-8d6e-fa949ee0a5d8.png" width="60" height="60"/>
 <img src="https://user-images.githubusercontent.com/96868951/187032229-605756c5-0f73-4ef7-972a-5e00988411a9.png" alt="icon" width="72" height="72" />
-<img alt="NestJs" src ="https://img.shields.io/badge/NestJs-E0234E.svg?&style=flat&logo=NestJs&logoColor=black"/>
-<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=black"/>
-<img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white"/>
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" />
+<img alt="NestJS" src="https://user-images.githubusercontent.com/96868951/187032538-a3c2656f-a592-4fab-9579-856bff0fb5cd.png" width="60" height="60"/>
+<br/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="72" height="72" />
+<img src="https://user-images.githubusercontent.com/96868951/187032706-0e5c9bba-2fb3-46ae-b991-ef4d751793eb.png" width="72" height="72" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="72" height="72" />
 </p>
-
 </div>
 
+<div style="display: flex; align-items: flex-start;"></div><div style="display: flex; align-items: flex-start;">&nbsp;&nbsp;</div>
 <div align="center">
-<img src ="https://github-readme-stats.vercel.app/api?username=uiop5487&show_icons=true&count_private=true&theme=dark">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=uiop5487&layout=compact&hide_border=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=uiop5487&show_icons=true&count_private=true&theme=dark">
+<br />
+<div style="display: flex; align-items: flex-start;"></div><div style="display: flex; align-items: flex-start;">&nbsp;&nbsp;</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiop5487&layout=compact&hide_border=true&theme=dark">
 </div>
 
 </div>
