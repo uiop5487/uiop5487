@@ -38,10 +38,8 @@
 
 <div style="display: flex; align-items: flex-start;"></div><div style="display: flex; align-items: flex-start;">&nbsp;&nbsp;</div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=uiop5487&show_icons=true&count_private=true&theme=dark">
-<br />
-<div style="display: flex; align-items: flex-start;"></div><div style="display: flex; align-items: flex-start;">&nbsp;&nbsp;</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiop5487&layout=compact&hide_border=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=uiop5487&show_icons=true&count_private=true&theme=dark" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiop5487&layout=compact&hide_border=true&theme=dark" height="150">
 </div>
 
 </div>
