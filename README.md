@@ -18,6 +18,7 @@
 <img alt="ApolloClient" src="https://img.shields.io/badge/ApolloClient-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
 <br/>
 <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat&logo=Node.js&logoColor=black"/>
+<img src="https://user-images.githubusercontent.com/96868951/187032229-605756c5-0f73-4ef7-972a-5e00988411a9.png" alt="icon" width="72" height="72" />
 <img alt="NestJs" src ="https://img.shields.io/badge/NestJs-E0234E.svg?&style=flat&logo=NestJs&logoColor=black"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=black"/>
 <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=flat&logo=Express&logoColor=white"/>
