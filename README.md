@@ -14,6 +14,7 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="72" height="72" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="72" height="72" />
 <img src="https://user-images.githubusercontent.com/96868951/187032229-605756c5-0f73-4ef7-972a-5e00988411a9.png" alt="icon" width="72" height="72" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="72" height="72" />
 <br/>
 <div>frameworks</div>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="72" height="72" />
