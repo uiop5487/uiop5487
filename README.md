@@ -27,11 +27,11 @@
 <img src="https://user-images.githubusercontent.com/96868951/187036175-d8afc4d9-3d8c-44c8-87f0-5e8cc79d10f7.png" width="72" height="72">
 <div>apis</div>
 <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="72" height="72" />
-<img src="https://user-images.githubusercontent.com/96868951/187032450-5d8e77c4-bff6-4835-8d6e-fa949ee0a5d8.png" width="65" height="65"/>
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="72" height="72" />
 <div>deploy</div>
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="72" height="72" />
 <img src="https://user-images.githubusercontent.com/96868951/187036678-55edd632-0600-43f7-8585-d33171943c23.png" width="72" height="72" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="72" height="72" />
 
 </p>
 </div>
