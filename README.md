@@ -21,6 +21,7 @@
 <img src="https://user-images.githubusercontent.com/96868951/187032298-846baf8e-c0e9-42ce-8a06-3e48994cf5d2.png" width="60" height="60"/>
 <img alt="NestJS" src="https://user-images.githubusercontent.com/96868951/187032538-a3c2656f-a592-4fab-9579-856bff0fb5cd.png" width="60" height="60"/>
 <img src="https://user-images.githubusercontent.com/96868951/187032706-0e5c9bba-2fb3-46ae-b991-ef4d751793eb.png" width="60" height="60" />
+<img src="https://user-images.githubusercontent.com/96868951/209526675-4ea27751-5e50-4087-b085-18f98b0b47d5.png" width="60" height="60" />
 <br/>
 <div>data</div>
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="72" height="72" />
