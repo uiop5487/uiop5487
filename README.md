@@ -2,7 +2,6 @@
 <div align="center">
   
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=41538E&height=300&section=header&text=jinsung's%20Hub&fontSize=90&fontColor=ffffff&rotate=20&fontAlignY=35&fontAlign=60" />
   </p>
   
 
